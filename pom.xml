@@ -28,7 +28,9 @@
     <module>batch</module>
 
     <module>ui</module>
-          
+
+    <module>web</module>
+
   </modules>
 
   <dependencyManagement>

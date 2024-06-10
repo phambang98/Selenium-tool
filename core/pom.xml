@@ -169,7 +169,11 @@
             <artifactId>encoder</artifactId>
             <version>1.2.3</version>
         </dependency>
-
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-java</artifactId>
+            <version>4.21.0</version>
+        </dependency>
 
 
     </dependencies>
